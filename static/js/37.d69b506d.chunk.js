@@ -1,0 +1,1 @@
+(this["webpackJsonpsphynx-frontend"]=this["webpackJsonpsphynx-frontend"]||[]).push([[37],{1816:function(n,t,e){"use strict";e.r(t);var c,s=e(7),h=(e(1),e(5)),i=e(0),p=h.default.div(c||(c=Object(s.a)(["\n  min-height: calc(100vh - 117px);\n"])));t.default=function(){return Object(i.jsx)(p,{children:"FAQ"})}}}]);
